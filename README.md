@@ -14,3 +14,5 @@ Here’s why it’s the top MQTT client library for Python users:
 - Regularly updated to keep pace with IoT advancements.
 
 - - - 
+### Graphics Interface of Power usage with interactive controls to turn the outlet ON or OFF
+<img width="642" height="503" alt="GUI example" src="https://github.com/user-attachments/assets/46b0fccf-2afc-43b4-bc90-a860ece9a3d5" />
