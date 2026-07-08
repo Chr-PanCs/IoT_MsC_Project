@@ -68,14 +68,15 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
     
     1) Easily add & name new devices through their QR code
     2) List of registered devices and their Connection Status
-    3) Interactive list of connected devices with ON/OFF slider and options
-    4) Overview of all registered devices Power Usage with Uptime 
+    3) Interactive list of connected devices(& groups) with ON/OFF slider and options
+    4) Overview of all registered devices (& groups) Power Usage with Uptime 
     5) Extensive single device power usage analytics of last hour/day/week through Graphical Interface  
-    6) Operation according to Time Schedule or Timer
+    6) Operation according to Time Schedule or Timer for specific device or group
+    7) Option of handling devices through user specified tag
 
        -  
-    7) Shortcut widget to turn ON or OFF a specific device
-    8) Notification for STATUS change of Device through Time Schedule or Timer
+    8) Shortcut widget to turn ON or OFF a specific device
+    9) Notification for STATUS change of Device through Time Schedule or Timer
   
 -  ### StoryBoard
     The storyboard is for a hypothetical target user of the app - This demonstrates how an app such as Voltrix can make or break the day of a person that has a tight schedule and minimal time at his home in between his work and other activities.
@@ -85,9 +86,14 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
    -  Remote ON/OFF switch for connected devices ( Turned Water Heater ON)
    -  Real time monitoring of a Device's Power usage through Hour/Day/Week Graph ( Monitoring if Washer/Dryer program finished - Power consumption dropped)
    -  Automation of device through Time Schedule (Washer/Dryer Example)
+ 
+     
 -  ### User Flow for Onboarding
 
-  
+   This User Flow demonstrates the on-boarding, configuration and use of a Smart Plug Device 
+  <img width="1079" height="898" alt="Voltrix User Flow SS" src="https://github.com/user-attachments/assets/0bc671b7-adb2-46c7-85b4-524ebcd804d7" />
+
+   Made with [canva](https://www.canva.com)
 -  ### Mind map
 
   
