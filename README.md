@@ -1,5 +1,13 @@
-# IoT_MQTT_MSc_Project
-IoT Project to explore MQTT, read sensor data from an IoT device, send commands to the device and make graphs of the data gathered.
+# IoT_SmartPlug_MSc_Project
+
+- IoT Smart Plug Project to:
+    
+  1)  explore MQTT
+  2)  read sensor data from an IoT device
+  3)   end commands to the device
+  4)   make graphs of the data gathered.
+  5)   create a UX case study
+
 - - -
 
 **MQTT** (Message Queuing Telemetry Transport) is a lightweight messaging protocol designed for IoT (Internet of Things) applications using a publish/subscribe model. It ensures reliable, real-time communication with minimal code and bandwidth, making it ideal for resource-constrained devices and low-bandwidth networks. Industries like IoT, mobile internet, Internet of Vehicles (IoV), and power systems widely adopt MQTT for its efficiency.
@@ -39,3 +47,31 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
 <img width="642" height="503" alt="GUI example" src="https://github.com/user-attachments/assets/46b0fccf-2afc-43b4-bc90-a860ece9a3d5" />
   
 <img width="642" height="503" alt="GUI example" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRpcnpxMW1pZW1zbjg4aXUwbmd4cWZrZTVsd2F6NXIxbGQ5N3BpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ohc1YwM4xKo2asuuWT/giphy.gif" />
+
+- - - 
+
+# UX Case Study - Voltrix
+
+-  ### Overview
+  
+
+  
+-  ### Features
+      List of Features:
+   
+      - Shortcut widget to turn ON or OFF a specific device  
+  
+-  ### StoryBoard
+
+-  ### User Flow for Onboarding
+
+  
+-  ### Mind map
+
+  
+-  ### Wireframes
+
+  
+-  ### Annotations
+
+  
