@@ -53,16 +53,38 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
 # UX Case Study - Voltrix
 
 -  ### Overview
-  
+      **Voltrix** , an app idea as a first Introduction to UX Case Studies, was developed during an IoT Project in *Advanced Digital Design & Embedded Systems*.
+
+    The primary purpose of this app is to allow its users advanced control of their devices connected to a SmartPlug, either through real-time monitoring and interaction, or through time-schedules.
+
+-  ### Hypothesis
+
+    The Modern lifestyle forces people *ab invito* out of their homes for the majority of the day. Being able to monitor, operate and automate your home appliances becomes more significant with each passing day.
+
+   Specifically, some groups of people, such as parents, people with stress disorders, or tight time schedules, are going to notice an immediate impact on their way of life.  
 
   
--  ### Features
-      List of Features:
-   
-      - Shortcut widget to turn ON or OFF a specific device  
+-  ### Features:
+    
+    1) Easily add & name new devices through their QR code
+    2) List of registered devices and their Connection Status
+    3) Interactive list of connected devices with ON/OFF slider and options
+    4) Overview of all registered devices Power Usage with Uptime 
+    5) Extensive single device power usage analytics of last hour/day/week through Graphical Interface  
+    6) Operation according to Time Schedule or Timer
+
+       -  
+    7) Shortcut widget to turn ON or OFF a specific device
+    8) Notification for STATUS change of Device through Time Schedule or Timer
   
 -  ### StoryBoard
+    The storyboard is for a hypothetical target user of the app - This demonstrates how an app such as Voltrix can make or break the day of a person that has a tight schedule and minimal time at his home in between his work and other activities.
 
+   It highlights three of our key features which are:
+
+   -  Remote ON/OFF switch for connected devices ( Turned Water Heater ON)
+   -  Real time monitoring of a Device's Power usage through Hour/Day/Week Graph ( Monitoring if Washer/Dryer program finished - Power consumption dropped)
+   -  Automation of device through Time Schedule (Washer/Dryer Example)
 -  ### User Flow for Onboarding
 
   
@@ -70,6 +92,8 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
 
   
 -  ### Wireframes
+
+-  ### Conclusion
 
   
 -  ### Annotations
