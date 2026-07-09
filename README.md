@@ -90,13 +90,18 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
      
 -  ### User Flow for Onboarding
 
-   This User Flow demonstrates the on-boarding, configuration and use of a Smart Plug Device 
-  <img width="1079" height="898" alt="Voltrix User Flow SS" src="https://github.com/user-attachments/assets/0bc671b7-adb2-46c7-85b4-524ebcd804d7" />
+    This User Flow demonstrates the on-boarding, configuration and use of a Smart Plug Device
+   
+    <img width="1079" height="898" alt="Voltrix User Flow SS" src="https://github.com/user-attachments/assets/0bc671b7-adb2-46c7-85b4-524ebcd804d7" />
 
-   Made with [canva](https://www.canva.com)
+    Made with [canva](https://www.canva.com)
 -  ### Mind map
 
-  
+    This Mind Map showcases possible actions the users of Voltrix will be able to execute through the use of the App. 
+
+    <img width="765" height="754" alt="Voltrix Mind Map" src="https://github.com/user-attachments/assets/718492ba-91fb-4ff8-b423-11cff49fd2ef" />
+
+    Made with [canva](https://www.canva.com)
 -  ### Wireframes
 
 -  ### Conclusion
