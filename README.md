@@ -103,7 +103,9 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
 
     Made with [canva](https://www.canva.com)
 -  ### Wireframes
+    <img width="1250" height="1507" alt="Voltrix_Wireframes" src="https://github.com/user-attachments/assets/44b9c017-50f9-46b6-92d4-6b0f8837a901" />
 
+     Made with [Evolus-Pencil](https://github.com/OneToolsCollection/evolus-pencil)
 -  ### Conclusion
 
   
