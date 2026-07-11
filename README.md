@@ -89,7 +89,8 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
  
      
     Voltrix Storyboard:
-     <img width="1508" height="1028" alt="20260711_162357 (1)" src="https://github.com/user-attachments/assets/4c457d0b-efb9-4832-aed6-59874a02441b" />
+     <img width="1508" height="1036" alt="Voltrix Storyboard" src="https://github.com/user-attachments/assets/2b349339-c841-4821-9bf7-13e13b1c769c" />
+
 
 
 
