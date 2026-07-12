@@ -129,10 +129,9 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
 -  ### Annotations
 
     To help describe the screens and features, some annotations for the Devices/Tags Tab were added.
+   
+    <img width="1172" height="784" alt="Voltrix Annotation Fixed" src="https://github.com/user-attachments/assets/1b40dabe-f921-44e0-b3d6-c1d958fcb03b" />
 
-    <img width="1172" height="784" alt="Annotation Voltrix" src="https://github.com/user-attachments/assets/60df6e52-3487-48dd-929c-43a91a2ef66a" />
-
-    
      Made with [Evolus-Pencil](https://github.com/OneToolsCollection/evolus-pencil)
 
    
