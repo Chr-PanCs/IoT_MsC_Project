@@ -50,7 +50,7 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
 
 - - - 
 
-# UX Case Study - Voltrix
+# Voltrix: UX Case Study 
 
 -  ### Overview
       **Voltrix** , an app idea as a first Introduction to UX Case Studies, was developed during an IoT Project in *Advanced Digital Design & Embedded Systems*.
@@ -66,17 +66,24 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
   
 -  ### Features:
     
-    1) Easily add & name new devices through their QR code
+    1) Add new devices through their QR code and name them
+        - Provides a quick and easy way to add new product with minimal input from the user  
     2) List of registered devices and their Connection Status
+        - Easy overview of the connection status of the registered devices
     3) Interactive list of connected devices(& groups) with ON/OFF slider and options
-    4) Overview of all registered devices (& groups) Power Usage with Uptime 
-    5) Extensive single device power usage analytics of last hour/day/week through Graphical Interface  
+        - Quick administration & configuration of connected devices
+    4) Overview of all registered devices (& groups) Power Usage with Uptime
+        - Dashboard so the user will know with a quick glance the active consumption and uptime of devices(& groups) 
+    5) Extensive single device power usage analytics of last hour/day/week through Graphical Interface
+        - Graph view per device/tag of hourly/daily/weekly consumption for additional information
     6) Operation according to Time Schedule or Timer for specific device or group
+        - Automation through Time Schedule/Timer of devices/tags to allow advanced administration, parental control and lower power bills
     7) Option of handling devices through user specified tag
-
-       -  
+        - Option to group devices by the use of tags for easy administration of multiple devices  
     8) Shortcut widget to turn ON or OFF a specific device
-    9) Notification for STATUS change of Device through Time Schedule or Timer
+        - App widget for quick access to specified device/tag without the need to open the App
+    9) Notification for STATUS change of Device 
+        - Notification for automatic status changes of devices either from automation or from change in connection status.  
   
 -  ### StoryBoard
     The storyboard is for a hypothetical target user of the app - This demonstrates how an app such as Voltrix can make or break the day of a person that has a tight schedule and minimal time at his home in between his work and other activities.
@@ -101,6 +108,7 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
     <img width="1079" height="898" alt="Voltrix User Flow SS" src="https://github.com/user-attachments/assets/0bc671b7-adb2-46c7-85b4-524ebcd804d7" />
 
     Made with [canva](https://www.canva.com)
+   
 -  ### Mind map
 
     This Mind Map showcases possible actions the users of Voltrix will be able to execute through the use of the App. 
@@ -108,13 +116,29 @@ https://github.com/Chr-PanCs/IoT_MsC_Project/blob/7d0200622931ffaa62f3f4341c7903
     <img width="765" height="754" alt="Voltrix Mind Map" src="https://github.com/user-attachments/assets/718492ba-91fb-4ff8-b423-11cff49fd2ef" />
 
     Made with [canva](https://www.canva.com)
+   
 -  ### Wireframes
+
+
     <img width="1250" height="1507" alt="Voltrix_Wireframes" src="https://github.com/user-attachments/assets/44b9c017-50f9-46b6-92d4-6b0f8837a901" />
 
      Made with [Evolus-Pencil](https://github.com/OneToolsCollection/evolus-pencil)
--  ### Conclusion
+
 
   
 -  ### Annotations
 
-  
+    To help describe the screens and features, some annotations for the Devices/Tags Tab were added.
+
+    <img width="1172" height="784" alt="Annotation Voltrix" src="https://github.com/user-attachments/assets/60df6e52-3487-48dd-929c-43a91a2ef66a" />
+
+    
+     Made with [Evolus-Pencil](https://github.com/OneToolsCollection/evolus-pencil)
+
+   
+-  ### Conclusion
+
+     In this IoT project we made a Proof of Concept for Administration & Monitoring of a SmartPlug IoT Device using a MQTT Broker and then with our findings we proceeded with a UX Case Study for our hypothetical App (Voltrix).
+
+     This has been an interesting learning experience, from brainstorming of features that are going to improve the everyday life of users according to their different needs, to designing the User Interface that will feel comfortable and intuitive to the user. Apart from that, it also provided an interesting way to get familiar with tools such as the ones mentionted above.
+      
